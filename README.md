@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh sojitra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/5f/08/50/5f08505655b858d52ea4ef07a6fa58d5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sojitraharsh&label=Profile%20views&color=0e75b6&style=flat" alt="sojitraharsh" /> </p>
 
