@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://harshsojitra.me/](https://harshsojitra.me/)
+- 👨‍💻 All of my projects are available at [https://harshsojitra.me/](https://harshsojitra.netlify.app/)
 
 - 📫 How to reach me **harshsojitra02@gmail.com**
 
